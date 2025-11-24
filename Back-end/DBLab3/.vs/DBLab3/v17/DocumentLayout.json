@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\models\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\models\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\dtos\\everyiteacherbelowkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\dtos\\everyiteacherbelowkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\dtos\\eachsecondstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\dtos\\eachsecondstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\models\\teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\models\\teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\models\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\models\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\models\\gradeslogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\models\\gradeslogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\models\\blocklogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\models\\blocklogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|e:\\university\\database server solutions\\sql files\\lab 3\\database-server-solutions\\back-end\\dblab3\\dblab3\\dblab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2016A857-41BA-468F-B9CD-03FA27671134}|DBLab3\\DBLab3.csproj|solutionrelative:dblab3\\dblab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EachSecondStudentDto.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\DTOs\\EachSecondStudentDto.cs",
+              "RelativeDocumentMoniker": "DBLab3\\DTOs\\EachSecondStudentDto.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\DTOs\\EachSecondStudentDto.cs",
+              "RelativeToolTip": "DBLab3\\DTOs\\EachSecondStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:39:22.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Students.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Models\\Students.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\Students.cs",
+              "RelativeToolTip": "DBLab3\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:03:17.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Controllers\\GroupsController.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "DBLab3\\Controllers\\GroupsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:33:45.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subjects.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\Subjects.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Models\\Subjects.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\Subjects.cs",
+              "RelativeToolTip": "DBLab3\\Models\\Subjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:03:19.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradesController.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Controllers\\GradesController.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Controllers\\GradesController.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Controllers\\GradesController.cs",
+              "RelativeToolTip": "DBLab3\\Controllers\\GradesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:34:14.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "DBLab3\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAADwv7QAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:32:48.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Controllers\\TeachersController.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "DBLab3\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv1UAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:33:22.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Models\\UniversityContext.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\UniversityContext.cs",
+              "RelativeToolTip": "DBLab3\\Models\\UniversityContext.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv5EAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:02:47.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EveryITeacherBelowKDto.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\DTOs\\EveryITeacherBelowKDto.cs",
+              "RelativeDocumentMoniker": "DBLab3\\DTOs\\EveryITeacherBelowKDto.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\DTOs\\EveryITeacherBelowKDto.cs",
+              "RelativeToolTip": "DBLab3\\DTOs\\EveryITeacherBelowKDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:39:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Controllers\\LogsController.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "DBLab3\\Controllers\\LogsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:12:27.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Controllers\\SubjectsController.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "DBLab3\\Controllers\\SubjectsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:33:59.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Teachers.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\Teachers.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Models\\Teachers.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\Teachers.cs",
+              "RelativeToolTip": "DBLab3\\Models\\Teachers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:03:20.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Groups.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\Groups.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Models\\Groups.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\Groups.cs",
+              "RelativeToolTip": "DBLab3\\Models\\Groups.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:03:16.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\Grades.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Models\\Grades.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\Grades.cs",
+              "RelativeToolTip": "DBLab3\\Models\\Grades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:03:02.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GradesLogs.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\GradesLogs.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Models\\GradesLogs.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\GradesLogs.cs",
+              "RelativeToolTip": "DBLab3\\Models\\GradesLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:03:14.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlockLogs.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\BlockLogs.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Models\\BlockLogs.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Models\\BlockLogs.cs",
+              "RelativeToolTip": "DBLab3\\Models\\BlockLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:02:59.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Program.cs",
+              "RelativeDocumentMoniker": "DBLab3\\Program.cs",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Program.cs",
+              "RelativeToolTip": "DBLab3\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:30:23.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\appsettings.json",
+              "RelativeDocumentMoniker": "DBLab3\\appsettings.json",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\appsettings.json",
+              "RelativeToolTip": "DBLab3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T13:36:34.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DBLab3\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DBLab3\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T14:11:37.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DBLab3.csproj",
+              "DocumentMoniker": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\DBLab3.csproj",
+              "RelativeDocumentMoniker": "DBLab3\\DBLab3.csproj",
+              "ToolTip": "E:\\University\\Database Server Solutions\\SQL files\\Lab 3\\database-server-solutions\\Back-end\\DBLab3\\DBLab3\\DBLab3.csproj",
+              "RelativeToolTip": "DBLab3\\DBLab3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T14:11:33.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
