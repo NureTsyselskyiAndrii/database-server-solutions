@@ -13,6 +13,16 @@ namespace DBLab3
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowReactApp",
+                    policy =>
+                    {
+                        policy.WithOrigins("http://localhost:3000")
+                              .AllowAnyHeader()
+                              .AllowAnyMethod();
+                    });
+            });
 
             builder.Services.AddDbContext<UniversityContext>(options =>
             options.UseSqlServer(
@@ -32,7 +42,7 @@ namespace DBLab3
                 app.UseSwaggerUI();
             }
 
-
+            app.UseCors("AllowReactApp");
             app.UseHttpsRedirection();
             app.UseAuthorization();
             app.MapControllers();

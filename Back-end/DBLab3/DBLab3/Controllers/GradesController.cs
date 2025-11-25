@@ -106,6 +106,10 @@ namespace DBLab3.Controllers
 
                 return Ok(new { message = "Procedure executed" });
             }
+            catch (SqlException ex)
+            {
+                return BadRequest(new { sql_error = ex.Message });
+            }
             catch (Exception ex)
             {
                 return BadRequest(new { error = ex.Message });

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DBLab3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f391967daeb326d971896d148eb89ef18d221587")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc6706240b953e2a9fa0c41194bbab1f6e2119ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("DBLab3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DBLab3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -27,6 +27,9 @@ namespace DBLab3.Controllers
                     t.Teacher_id,
                     t.FirstName,
                     t.LastName,
+                    t.Department,
+                    t.Position,
+                    t.Phone,
                     Subjects = t.Subjects.Select(s => new
                     {
                         s.Subject_id,
@@ -44,7 +47,6 @@ namespace DBLab3.Controllers
                 .ToListAsync();
             return Ok(list);
         }
-
 
         [HttpPost("insert")]
         public async Task<IActionResult> InsertTeacher(string FirstName, string LastName, string Department, string Position, string Phone)
